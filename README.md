@@ -1,4 +1,3 @@
-# Cisco Network Device Configuration Syntax
+# Sintaxis de la cofiguración de dispositivos de Red Cisco
 
-This repo contains device configuration commands for CISCO network appliances such as switches, routers and wireless devices. The content of this repo has been taken during the time of my study for the CCNA Certification
-
+Este repositorio contiene los comandos necesarios para la configuración de dispositivos de Red Cisco como por ejemplo: Switch, Router y Dispositivos Wifi.
